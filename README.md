@@ -1,1 +1,4 @@
-Data Project - Stock Market Analysis using Python Use pandas to get stock information, visualize different aspects of it and look at a few ways of analyzing the risk of a stock, based on its previous performance history, predicting future stock prices through a Monte Carlo method. Use Yahoo grab some data for some market stocks The market stocks we'll use for this analysis-Apple ,Pfizer,Microsoft and Moderna
+Hey there ,
+Here is portfolio of my projects
+every time update and upload a new project
+hope you will enjoy :)
